@@ -1,0 +1,6 @@
+{
+  "name": "BAMOKE HARDWARE POS SYSTEM",
+  "description": "Single-counter Point of Sale, Inventory Management, Daily Revenue Reporting, and M-Pesa Paybill Payment Reconciliation system for Bamoke Hardware in Kenya.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
